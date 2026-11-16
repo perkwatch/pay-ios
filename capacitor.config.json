@@ -1,0 +1,1 @@
+{"appId":"com.buckthem.pay","appName":"BuckThem Pay","backgroundColor":"#ffffff","ios":{"contentInset":"always","preferredContentMode":"mobile"},"server":{"androidScheme":"https","cleartext":false,"url":"https://pay.buckthem.com/"},"webDir":"www"}
